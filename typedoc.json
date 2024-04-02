@@ -1,0 +1,8 @@
+{
+  "entryPoints": ["src/**/*.ts"],
+  "out": "./docs",
+  "name": "Práctica 10 PE101",
+  "exclude": ["**/**/*.spec.ts"],
+  "theme": "default",
+  "readme": "README.md",
+}
